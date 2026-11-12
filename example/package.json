@@ -1,0 +1,16 @@
+{
+  "name": "hybrid-rerank-example",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Module d'exemple : fusion RRF de classements et score de recouvrement lexical.",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  }
+}
